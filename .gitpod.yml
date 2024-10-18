@@ -1,3 +1,5 @@
+image: gitpod/workspace-bun:latest
+
 tasks:
   - name: Upgrade Bun to Canary
     init: |
