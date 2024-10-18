@@ -1,0 +1,4 @@
+tasks:
+  - name: Upgrade Bun to Canary
+    init: |
+      bun upgrade --canary
